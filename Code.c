@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-
+//project
 typedef struct {
     int id;
     int arrival_time;
